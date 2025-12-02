@@ -38,13 +38,6 @@ This repository hosts the source code for TOMATO, a dynamic food ordering websit
 
 ## Run Locally
 
-Clone the project
-
-```bash
-    git clone https://github.com/AdminAdi/Tomato
-```
-Go to the project directory
-
 ```bash
     cd Food-Delivery
 ```
@@ -110,4 +103,5 @@ Start the Backend server
 * [Stripe](https://stripe.com/)
 * [JWT-Authentication](https://jwt.io/introduction)
 * [Multer](https://www.npmjs.com/package/multer)
+
 
